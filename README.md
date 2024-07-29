@@ -1,4 +1,4 @@
-# Semantic Segmentation of Satellite Images
+# Multiclass Semantic Segmentation of Satellite Images Using Deep Learning
 
 ## Dataset
 ---
